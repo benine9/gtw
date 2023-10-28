@@ -8,257 +8,37 @@
   "useAFKSystem": true,
   "Groups": [
     {
-      "name": "Newbie",
+      "name": "Member",
       "info": {
-        "nextGroup": "Adventurer",
+        "nextGroup": "MemberI",
         "rankCost": 36000,
         "rankUnlocks": {}
       }
     },{
-"name": "Adventurer","info"{
-  "nextGroup": "Apprentice", 
+"name": "MemberI","info"{
+  "nextGroup": "MemberII", 
   "rankCost":72000,
   "rankUnlocks":{}}
 },{
-"name": "Apprentice","info"{
-  "nextGroup": "Teh", 
-  "rankCost":90000,
+"name": "MemberII","info"{
+  "nextGroup": "MemberIII", 
+  "rankCost":144000,
   "rankUnlocks":{}}
 },{
-"name": "Teh","info"{
-  "nextGroup": "Bakwan", 
-  "rankCost":140000,
+"name": "MemberIIII","info"{
+  "nextGroup": "MemberIIII", 
+  "rankCost":288000,
   "rankUnlocks":{}}
 },{
-"name": "Bakwan","info"{
-  "nextGroup": "TelorDadar", 
-  "rankCost":180000,
+"name": "MemberIIIII","info"{
+  "nextGroup": "MemberIIIII", 
+  "rankCost":576000,
   "rankUnlocks":{}}
 },{
-"name": "TelorDadar","info"{
-  "nextGroup": "Maubagaimana", 
-  "rankCost":240000,
+"name": "MemberIIIIII","info"{
+  "nextGroup": "MemberIIIIII", 
+  "rankCost":1152000,
   "rankUnlocks":{}}
-},{
-"name": "Maubagaimana","info"{
-  "nextGroup": "wuduhel", 
-  "rankCost":270000,
-  "rankUnlocks":{}}
-},{
-"name": "wuduhel","info"{
-  "nextGroup": "siAlan", 
-  "rankCost":310000,
-  "rankUnlocks":{}}
-},{
-"name": "siAlan","info"{
-  "nextGroup": "bocorAlus", 
-  "rankCost":350000,
-  "rankUnlocks":{}}
-},{
-"name": "bocorAlus","info"{
-  "nextGroup": "ikan", 
-  "rankCost":400000,
-  "rankUnlocks":{}}
-},{
-"name": "ikan","info"{
-  "nextGroup": "Sugoi", 
-  "rankCost":425000,
-  "rankUnlocks":{}}
-},{
-"name": "Sugoi","info"{
-  "nextGroup": "Bakwan2", 
-  "rankCost":436000,
-  "rankUnlocks":{}}
-},{
-"name": "Bakwan2","info"{
-  "nextGroup": "Omelet", 
-  "rankCost":470000,
-  "rankUnlocks":{}}
-},{
-"name": "Omelet","info"{
-  "nextGroup": "None", 
-  "rankCost":500000,
-  "rankUnlocks":{}}
-},{
-"name": "None","info"{
-  "nextGroup": "padadahulu", 
-  "rankCost":509000,
-  "rankUnlocks":{}}
-},{
-"name": "padadahulu","info"{
-  "nextGroup": "kalahiduplah", 
-  "rankCost":530000,
-  "rankUnlocks":{}}
-},{
-"name": "kalahiduplah","info"{
-  "nextGroup": "seekorkerang", 
-  "rankCost":590000,
-  "rankUnlocks":{}}
-},{
-"name": "seekorkerang","info"{
-  "nextGroup": "begitu", 
-  "rankCost":600000,
-  "rankUnlocks":{}}
-},{
-"name": "begitu","info"{
-  "nextGroup": "ikan9", 
-  "rankCost":630000,
-  "rankUnlocks":{}}
-},{
-"name": "ikan9","info"{
-  "nextGroup": "Cthultu", 
-  "rankCost":670000,
-  "rankUnlocks":{}}
-},{
-"name": "Cthultu","info"{
-  "nextGroup": "eyeof", 
-  "rankCost":690000,
-  "rankUnlocks":{}}
-},{
-"name": "eyeof","info"{
-  "nextGroup": "sapire", 
-  "rankCost":700000,
-  "rankUnlocks":{}}
-},{
-"name": "sapire","info"{
-  "nextGroup": "ambatukam", 
-  "rankCost":710000,
-  "rankUnlocks":{}}
-},{
-"name": "ambatukam","info"{
-  "nextGroup": "with", 
-  "rankCost":780000,
-  "rankUnlocks":{}}
-},{
-"name": "with","info"{
-  "nextGroup": "munlur", 
-  "rankCost":790000,
-  "rankUnlocks":{}}
-},{
-"name": "munlur","info"{
-  "nextGroup": "wallahualam", 
-  "rankCost":810000,
-  "rankUnlocks":{}}
-},{
-"name": "wallahualam","info"{
-  "nextGroup": "akumw", 
-  "rankCost":820000,
-  "rankUnlocks":{}}
-},{
-"name": "akumw","info"{
-  "nextGroup": "orang", 
-  "rankCost":850000,
-  "rankUnlocks":{}}
-},{
-"name": "orang","info"{
-  "nextGroup": "sobakso", 
-  "rankCost":890000,
-  "rankUnlocks":{}}
-},{
-"name": "sobakso","info"{
-  "nextGroup": "wakanda", 
-  "rankCost":900000,
-  "rankUnlocks":{}}
-},{
-"name": "wakanda","info"{
-  "nextGroup": "nasibakar", 
-  "rankCost":910000,
-  "rankUnlocks":{}}
-},{
-"name": "nasibakar","info"{
-  "nextGroup": "alamak", 
-  "rankCost":1000000,
-  "rankUnlocks":{}}
-},{
-"name": "alamak","info"{
-  "nextGroup": "banyoak", 
-  "rankCost":1020000,
-  "rankUnlocks":{}}
-},{
-"name": "banyoak","info"{
-  "nextGroup": "nyee", 
-  "rankCost":1025000,
-  "rankUnlocks":{}}
-},{
-"name": "nyee","info"{
-  "nextGroup": "node", 
-  "rankCost":1030000,
-  "rankUnlocks":{}}
-},{
-"name": "node","info"{
-  "nextGroup": "biru", 
-  "rankCost":1040000,
-  "rankUnlocks":{}}
-},{
-"name": "biru","info"{
-  "nextGroup": "Celestial", 
-  "rankCost":1045000,
-  "rankUnlocks":{}}
-},{
-"name": "Celestial","info"{
-  "nextGroup": "gtw", 
-  "rankCost":1050000,
-  "rankUnlocks":{}}
-},{
-"name": "gtw","info"{
-  "nextGroup": "wajarnya", 
-  "rankCost":1055000,
-  "rankUnlocks":{}}
-},{
-"name": "wajarnya","info"{
-  "nextGroup": "ukan", 
-  "rankCost":1060000,
-  "rankUnlocks":{}}
-},{
-"name": "ukan","info"{
-  "nextGroup": "bayangkan", 
-  "rankCost":1065000,
-  "rankUnlocks":{}}
-},{
-"name": "bayangkan","info"{
-  "nextGroup": "rek", 
-  "rankCost":1067000,
-  "rankUnlocks":{}}
-},{
-"name": "rek","info"{
-  "nextGroup": "konghsep", 
-  "rankCost":1070000,
-  "rankUnlocks":{}}
-},{
-"name": "konghsep","info"{
-  "nextGroup": "duad", 
-  "rankCost":1075000,
-  "rankUnlocks":{}}
-},{
-"name": "duad","info"{
-  "nextGroup": "duar", 
-  "rankCost":1077000,
-  "rankUnlocks":{}}
-},{
-"name": "duar","info"{
-  "nextGroup": "lape", 
-  "rankCost":1080000,
-  "rankUnlocks":{}}
-},{
-"name": "lape","info"{
-  "nextGroup": "dududu", 
-  "rankCost":1085000,
-  "rankUnlocks":{}}
-},{
-"name": "dududu","info"{
-  "nextGroup": "cucumbah", 
-  "rankCost":1090000,
-  "rankUnlocks":{}}
-},{
-"name": "cucumbah","info"{
-  "nextGroup": "cat", 
-  "rankCost":1099000,
-  "rankUnlocks":{}}
-},{
-"name": "cat","info"{
-  "nextGroup": "zen", 
-  "rankCost":1200000,
-  "rankUnlocks":{}}
-}
+    }  
   ]
 }
